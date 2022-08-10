@@ -20,7 +20,7 @@ jupyterlab-server==0.2.0
 kaggle==1.5.0
 MarkupSafe==1.1.0
 mistune==0.8.4
-nbconvert==5.4.0
+nbconvert==6.3.0
 nbformat==4.4.0
 nodejs==0.1.1
 notebook==5.7.2
